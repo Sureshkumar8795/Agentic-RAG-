@@ -24,7 +24,6 @@ This repository covers everything from the fundamentals of RAG to production-rea
 ---
 
 ## 3. Embeddings
-- Sentence Transformers
 - HuggingFace Embeddings
 - Convert text into vectors
 - Semantic representation
